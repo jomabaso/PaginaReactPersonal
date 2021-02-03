@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/PaginaReactPersonal/static/css/main.d4fcddbd.chunk.css",
+    "main.js": "/PaginaReactPersonal/static/js/main.3f559772.chunk.js",
+    "main.js.map": "/PaginaReactPersonal/static/js/main.3f559772.chunk.js.map",
+    "runtime-main.js": "/PaginaReactPersonal/static/js/runtime-main.04154e9f.js",
+    "runtime-main.js.map": "/PaginaReactPersonal/static/js/runtime-main.04154e9f.js.map",
+    "static/css/2.150d169a.chunk.css": "/PaginaReactPersonal/static/css/2.150d169a.chunk.css",
+    "static/js/2.5378e410.chunk.js": "/PaginaReactPersonal/static/js/2.5378e410.chunk.js",
+    "static/js/2.5378e410.chunk.js.map": "/PaginaReactPersonal/static/js/2.5378e410.chunk.js.map",
+    "index.html": "/PaginaReactPersonal/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/PaginaReactPersonal/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d4fcddbd.chunk.css.map": "/PaginaReactPersonal/static/css/main.d4fcddbd.chunk.css.map",
+    "static/js/2.5378e410.chunk.js.LICENSE.txt": "/PaginaReactPersonal/static/js/2.5378e410.chunk.js.LICENSE.txt",
+    "static/media/C++_.0a81196c.png": "/PaginaReactPersonal/static/media/C++_.0a81196c.png",
+    "static/media/Csharp.e0956945.png": "/PaginaReactPersonal/static/media/Csharp.e0956945.png",
+    "static/media/JavaScript.266bd9fb.png": "/PaginaReactPersonal/static/media/JavaScript.266bd9fb.png",
+    "static/media/Jorge-rounded.a3d89008.png": "/PaginaReactPersonal/static/media/Jorge-rounded.a3d89008.png",
+    "static/media/cel.008c5a5d.png": "/PaginaReactPersonal/static/media/cel.008c5a5d.png",
+    "static/media/css.6b567a6c.png": "/PaginaReactPersonal/static/media/css.6b567a6c.png",
+    "static/media/fb.834d80e5.png": "/PaginaReactPersonal/static/media/fb.834d80e5.png",
+    "static/media/instagram.a0e701c3.png": "/PaginaReactPersonal/static/media/instagram.a0e701c3.png",
+    "static/media/java.88e2b4ce.png": "/PaginaReactPersonal/static/media/java.88e2b4ce.png",
+    "static/media/outlock.a30eed9c.png": "/PaginaReactPersonal/static/media/outlock.a30eed9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04154e9f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.5378e410.chunk.js",
+    "static/css/main.d4fcddbd.chunk.css",
+    "static/js/main.3f559772.chunk.js"
+  ]
+}
