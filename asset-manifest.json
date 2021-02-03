@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PaginaReactPersonal/static/css/main.d4fcddbd.chunk.css",
-    "main.js": "/PaginaReactPersonal/static/js/main.df104572.chunk.js",
-    "main.js.map": "/PaginaReactPersonal/static/js/main.df104572.chunk.js.map",
+    "main.js": "/PaginaReactPersonal/static/js/main.937f2d12.chunk.js",
+    "main.js.map": "/PaginaReactPersonal/static/js/main.937f2d12.chunk.js.map",
     "runtime-main.js": "/PaginaReactPersonal/static/js/runtime-main.04154e9f.js",
     "runtime-main.js.map": "/PaginaReactPersonal/static/js/runtime-main.04154e9f.js.map",
     "static/css/2.150d169a.chunk.css": "/PaginaReactPersonal/static/css/2.150d169a.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.309fdffb.chunk.js",
     "static/css/main.d4fcddbd.chunk.css",
-    "static/js/main.df104572.chunk.js"
+    "static/js/main.937f2d12.chunk.js"
   ]
 }
