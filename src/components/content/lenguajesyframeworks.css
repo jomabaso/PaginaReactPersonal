@@ -1,0 +1,15 @@
+#contenedor-principal{
+    background-color:#eeeeee;
+    display: flexbox;
+    box-shadow: 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0);
+    margin-bottom: 5%;
+    
+}
+#Tarjetas-Sin-Bordes{
+    box-shadow: 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0);
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    background-color: #eeeeee;
+
+}

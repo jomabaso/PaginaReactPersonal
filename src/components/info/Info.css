@@ -1,0 +1,38 @@
+*{
+    color: #393e46;
+}
+
+.card {
+    position: absolute;
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #eeeeee;
+    color: #393e46;
+
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+.card-body{
+    background-color: #eeeeee;
+    color: #393e46;
+    
+}
+.card-title{
+    background-color: #eeeeee;
+    color: #393e46;
+}
+.card-text{
+    background-color: #eeeeee;
+    color: #393e46;
+    padding: 1%;
+}
+.card-section{
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+}
+.card:hover{
+    box-shadow: 1px 1px 20px #393e46;
+}

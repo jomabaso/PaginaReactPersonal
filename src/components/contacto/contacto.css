@@ -1,0 +1,23 @@
+.contacto{
+    padding: 5%;
+    display: flexbox;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    margin-bottom: 5%;
+}
+.centro-row{
+    justify-content: center;
+    padding: 1%;
+    display: flex;
+}
+.alineado-row{
+    justify-content: center;
+    margin: 1%;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+
+}
+.divcontacto{
+    display:grid;
+    margin: 1%;
+    justify-content: center;
+    align-content: center;
+}
