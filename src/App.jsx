@@ -4,16 +4,17 @@ import BarraNavegacion from './components/navbar/BarraNavegacion';
 import Info from './components/info/Info'
 import Lyf from './components/content/lenguajesyframeworks.js';
 import Contacto from './components/contacto/contacto';
+import {Container} from 'react-bootstrap';
 function App() {
 
 
   return(
-    <div className="container-fluid">
+    <Container>
       <BarraNavegacion />
       <Info />
       <Lyf/>
       <Contacto/>
-    </div>
+    </Container>
   );
 
 }
